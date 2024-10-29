@@ -1,0 +1,2 @@
+Primera versión
+Estoy aprendiendo Git
