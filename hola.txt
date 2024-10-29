@@ -1,3 +1,5 @@
-Versión 1
+Versión 2
 Hola GitHub
 Este es mi primer archivo controlado por versiones
+Agregando una línea para la segunda versión
+Aprendiendo control de versiones
