@@ -3,3 +3,5 @@ Este es mi primer archivo controlado por versiones
 Agregando una tercera línea para ver cambios
 
 por que CLAUDE sera tan tonta
+
+y lo es, soy superior a ella
