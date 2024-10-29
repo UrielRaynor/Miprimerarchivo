@@ -1,3 +1,2 @@
-Primera versión
-Estoy aprendiendo Git
-Agregando segunda versión
+Hola GitHub
+Este es mi primer archivo controlado por versiones
